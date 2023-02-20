@@ -1,17 +1,26 @@
-### Hi there 👋
+# Hi, I'm Bojan Golic! 👋
 
-<!--
-**bokigolic/bokigolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer with a passion for building robust and responsive web applications. I'm proficient in using a variety of front-end and back-end technologies and always eager to learn more.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+- 🔭 I’m currently working on developing my skills in building scalable and maintainable web applications.
+- 🌱 I’m currently learning more about GraphQL and serverless computing.
+- 💬 Ask me about front-end development using React, back-end development using Node.js, or web application architecture and design patterns.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I'm an avid gamer and enjoy playing online games in my free time.
+
+## My skills
+
+- Front-end development using HTML, CSS, JavaScript, React, and Bootstrap.
+- Back-end development using Node.js, Express, and AJAX.
+- Version control using Git and GitHub.
+- Styling using SCSS.
+
+## Get in touch
+
+- LinkedIn: https://www.linkedin.com/in/bojan-golic-35174120a/
+- Email: golichbojan@email.com
+- Portfolio: https://bojangolic.com/
+
+Feel free to reach out to me if you have any questions, or if you'd like to discuss a project or collaboration. I'm always happy to chat!
