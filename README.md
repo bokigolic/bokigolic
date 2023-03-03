@@ -22,6 +22,6 @@ I'm a full-stack web developer with a passion for building robust and responsive
 
 - LinkedIn: https://www.linkedin.com/in/bojan-golic-35174120a/
 - Email: golichbojan@email.com
-- Portfolio: https://bojangolic.com/
+- Portfolio: https://portfolio.bojangolic.com/
 
 Feel free to reach out to me if you have any questions, or if you'd like to discuss a project or collaboration. I'm always happy to chat!
