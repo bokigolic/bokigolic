@@ -17,6 +17,7 @@ I'm a full-stack web developer with a passion for building robust and responsive
 - Back-end development using Node.js, Express, and AJAX.
 - Version control using Git and GitHub.
 - Styling using SCSS.
+- Data Base using SQL.
 
 ## Get in touch
 
