@@ -20,7 +20,6 @@ I'm a full-stack web developer with a passion for building robust and responsive
 - Data Base using SQL.
 
 ## Get in touch
-
 - LinkedIn: https://www.linkedin.com/in/bojan-golic-35174120a/
 - Email: golichbojan@email.com
 - Portfolio: https://bojangolic.com/
